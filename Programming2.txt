@@ -4,3 +4,4 @@ github- web service that does the work of git
 repository- the storage of all the files and evrything
 commit- save 
 commit hash - identifier of each commit(changed version)
+branch- new side section from the master, keeping the master unchanged
